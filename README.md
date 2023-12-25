@@ -1,2 +1,2 @@
 # Forca-em-assembly
-Tentativa de fazer uma forca em assmebly X86
+Tentativa de fazer uma forca em assmebly MIPS
